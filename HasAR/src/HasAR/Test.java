@@ -10,7 +10,7 @@ public class Test {
 	   Engine[] aeg= {eg,eg1,eg2};
 	   Bike bk=new Bike(aeg);
 	   bk.dis();
-			  
+			  System.out.println("good bye");
 	    
 }   
 }
