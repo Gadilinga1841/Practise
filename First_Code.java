@@ -6,6 +6,7 @@ class Student{
 	public Student(String sid,String sname) {
 		this.sid=sid;
 		this.sname=sname;
+System.out.println("linarju mangaraju");
 	}
 
 	
